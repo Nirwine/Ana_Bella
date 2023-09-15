@@ -1,0 +1,39 @@
+body{
+    background-image: url(imagens/fundo.png);
+}
+#principal{
+    width: 900px;
+    height: 500px;
+}
+
+#menu{
+    background-color: #c5c5b2;
+    padding: 18px;
+}
+#conteudo{
+    background: #e8e8d9;
+    padding: 10px;
+    font-size: 1em;
+}
+.imagem{
+    border: 30px;
+    border-style: solid;
+    border-color: #d8cba4;
+    border-width: 4px;
+}
+a{
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+}
+
+.centralizar{
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+h1{
+    color: #aa9a6a;
+    font-size: 1.3em;
+}
